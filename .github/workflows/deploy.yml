@@ -3,7 +3,7 @@ name: 🚀 Deploy Vite App to Google Cloud Run
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build-and-deploy:
