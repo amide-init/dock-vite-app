@@ -63,7 +63,10 @@ rm ~/.docker/config.json
 ```
 
 ---
-
+### configure Gcloud with docker 
+```bash
+gcloud auth configure-docker aisa-south1-docker.pkg.dev
+```
 ## 🗃️ Artifact Registry Setup
 
 ### 1. Create Artifact Registry (if not already created)
